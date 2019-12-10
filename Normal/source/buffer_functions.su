@@ -1,0 +1,11 @@
+buffer_functions.c:18:19:create_buffer	24	static
+buffer_functions.c:53:19:overflow_handler	32	static
+buffer_functions.c:99:6:buffer_full	16	static
+buffer_functions.c:111:6:buffer_empty	16	static
+buffer_functions.c:129:6:buffer_reset	16	static
+buffer_functions.c:139:6:buffer_destroy	16	static
+buffer_functions.c:148:6:advance_pointer	16	static
+buffer_functions.c:176:6:retreat_pointer	16	static
+buffer_functions.c:205:5:character_count	16	static
+buffer_functions.c:228:5:buffer_read	16	static
+buffer_functions.c:250:6:buffer_write	24	static
