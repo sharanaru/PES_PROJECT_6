@@ -380,7 +380,7 @@ static void DAC_Task(void *pvParameters)
 
 static void DSP_Analysis(void *pvParameters)
 {
-
+//https://www.geeksforgeeks.org/mathematics-mean-variance-and-standard-deviation/ Reference for implementing the stat functions
 	logtask("DSP_Analysis\n\r");
 	uint8_t DSP_Index = 0;
 	float MAX = 0;
