@@ -8,8 +8,8 @@ fsl_adc16.h:500:24:ADC16_GetChannelConversionValue	16	static
 fsl_dma.h:558:20:DMA_StartTransfer	16	static
 fsl_dmamux.h:98:20:DMAMUX_EnableChannel	16	static
 fsl_dmamux.h:128:20:DMAMUX_SetSource	24	static
-Main_free_RTOS.c:107:5:main	32	static
-Main_free_RTOS.c:149:6:DMA_Callback	16	static
-Main_free_RTOS.c:156:13:ADC_Task	144	static
+Main_free_RTOS.c:100:5:main	32	static
+Main_free_RTOS.c:142:6:DMA_Callback	16	static
+Main_free_RTOS.c:149:13:ADC_Task	144	static
 Main_free_RTOS.c:335:13:DAC_Task	40	static
 Main_free_RTOS.c:381:13:DSP_Analysis	48	static
