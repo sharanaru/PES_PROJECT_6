@@ -39,7 +39,7 @@ arm-none-eabi-gcc -D__REDLIB__ -DCPU_MKL25Z128VLK4 -DCPU_MKL25Z128VLK4_cm0plus -
 + DMA transfer wasnt receiving buffer pointer properly, had to create a different pointer to point to buffer seperately 
 + Creating DAC value analysis task in another task, couldnt make it resume from  interrupt.
 + Got MUTEX working for led control after repeated tries.   
-+  
++  Created Queue of reuired specifications but program logic did not work with the structure 
 ## References
 + Slack channel for clearing up questions 
 + KL25z examples from the SDK- Examples for interfacing DAC,ADC,DMA,MUTEX sample
